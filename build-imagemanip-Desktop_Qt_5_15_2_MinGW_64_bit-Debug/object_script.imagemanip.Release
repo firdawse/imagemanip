@@ -1,0 +1,13 @@
+release/grayscale.o
+release/illini.o
+release/image.o
+release/spotlight.o
+release/catchmain.o
+release/HSLAPixel.o
+release/lodepng.o
+release/main.o
+release/PNG.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

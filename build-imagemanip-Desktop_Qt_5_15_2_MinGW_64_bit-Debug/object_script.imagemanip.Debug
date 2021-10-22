@@ -1,0 +1,13 @@
+debug/grayscale.o
+debug/illini.o
+debug/image.o
+debug/spotlight.o
+debug/catchmain.o
+debug/HSLAPixel.o
+debug/lodepng.o
+debug/main.o
+debug/PNG.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o
